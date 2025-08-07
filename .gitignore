@@ -1,0 +1,7 @@
+*-backups/
+*.bak
+*.tmp
+*.DS_Store
+*.swp
+temp-freerouting.dsn
+fp-info-cache

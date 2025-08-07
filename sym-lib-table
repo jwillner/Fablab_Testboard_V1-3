@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Fablab_Test_V1")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/Fablab_Testboard_V1.kicad_sym")(options "")(descr ""))
+)
