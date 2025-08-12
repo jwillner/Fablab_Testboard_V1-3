@@ -3,7 +3,7 @@
 
 # Fablab-Winti KiCad-ESP32-C6-Projekt  
 > **Work-in-progress** – du  layoutest, du lötest, du programmierst  Slack `#fablab-winti`
-![ESP32-C6-DevKit im Wiki](https://raw.githubusercontent.com/wiki/jwillner/Fablab_Testboard_V1-3/WS_ESP32-C6-mini.png)
+![ESP32-C6-DevKit im Wiki](https://raw.githubusercontent.com/wiki/jwillner/Fablab_Testboard_V1-3.wiki/images/Fablab_testboard_v1-png)
 ## 🧰 Hardware-Baukasten (Stand: August 2025)
 
 | Teil | Beschreibung | Kurz-Link |
